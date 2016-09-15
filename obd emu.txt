@@ -1,0 +1,55 @@
+cd Downloads\obdsimwindows-latest\obdsimwindows
+
+obdsim.exe -w COM8
+
+C:\Users\GANESH\Downloads\obdsimwindows-latest\obdsimwindows>obdsim.exe -w COM46
+
+SimPort name: COM46
+
+C:\Users\GANESH\Downloads\obdsimwindows-latest\obdsimwindows>
+
+
+test terminal
+
+5                                                                           
+#41 0D 50                                                                       
+01 0F                                                                           
+#41 0D 50                                                                       
+01 05                                                                           
+#41 0D 50                                                                       
+01 0F                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+#41 0D 50                                                                       
+01 04                                                                           
+#41 0D 50                                                                       
+01 11                                                                           
+         
